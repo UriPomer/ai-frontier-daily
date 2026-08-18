@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-18｜Skaling、长上下文架构债务与 CEDAR 结构搜索](daily/2026-08-18.md)
 - [2026-08-17｜Reasoning Trace 安全、Catastrophic Remembering、Programmatic Tool Calling 与 Context Compaction](daily/2026-08-17.md)
 - [2026-08-16｜DeepSeek V4-Pro、GLM-5.3、Muse Glimmer 与 Harness Evolution 新争论](daily/2026-08-16.md)
 - [2026-08-15｜Agent Plugins、Qwen3.8-Max、Qwen-CUA 与 HarnessCompass](daily/2026-08-15.md)
