@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-20｜DeepSeek Harness 官方架构、提示注入审计与 StateM Harness Scaling](daily/2026-08-20.md)
 - [2026-08-19｜Grok Bot 云端同事与 Gemini 3.7 Flash 的 Agent 经济性](daily/2026-08-19.md)
 - [2026-08-18｜Skaling、长上下文架构债务与 CEDAR 结构搜索](daily/2026-08-18.md)
 - [2026-08-17｜Reasoning Trace 安全、Catastrophic Remembering、Programmatic Tool Calling 与 Context Compaction](daily/2026-08-17.md)
