@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-23｜NVIDIA AVO、TrueForge、Chroma Foundation、Ornith-1.5 与 LEGO-RL](daily/2026-08-23.md)
 - [2026-08-22｜Mind Viruses、Distilled Reasoning Skills 与 Harness-IF](daily/2026-08-22.md)
 - [2026-08-21｜Zed Delta、Agent Skills 质量危机与 Grok 4.6 长程 Agent 训练](daily/2026-08-21.md)
 - [2026-08-20｜DeepSeek Harness 官方架构、提示注入审计与 StateM Harness Scaling](daily/2026-08-20.md)
