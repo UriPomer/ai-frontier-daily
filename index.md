@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-24｜自我改进 Agent 的脆弱性、dots3-note/TEMPO、DeepSeek Vision 与 Cursor Continuity](daily/2026-08-24.md)
 - [2026-08-23｜NVIDIA AVO、TrueForge、Chroma Foundation、Ornith-1.5 与 LEGO-RL](daily/2026-08-23.md)
 - [2026-08-22｜Mind Viruses、Distilled Reasoning Skills 与 Harness-IF](daily/2026-08-22.md)
 - [2026-08-21｜Zed Delta、Agent Skills 质量危机与 Grok 4.6 长程 Agent 训练](daily/2026-08-21.md)
