@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-30｜GLM-5.3-Flash、Qwen4 架构预览、Claude Browser、科研 Agent 与 Jalapeño](daily/2026-08-30.md)
 - [2026-08-25｜Agent Lightning、Harness Continual Learning、Agent Skills、Control-Plane Tax 与 SocialRL](daily/2026-08-25.md)
 - [2026-08-24｜自我改进 Agent 的脆弱性、dots3-note/TEMPO、DeepSeek Vision 与 Cursor Continuity](daily/2026-08-24.md)
 - [2026-08-23｜NVIDIA AVO、TrueForge、Chroma Foundation、Ornith-1.5 与 LEGO-RL](daily/2026-08-23.md)
