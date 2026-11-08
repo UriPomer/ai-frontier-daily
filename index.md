@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-08｜GPT-6 Cyber、Weight-Space、Dreaming、Exo、METR 与 HarnessMM](daily/2026-11-08.md)
 - [2026-09-20｜Jev、Koa、Periodic Neon、HarnessTax 与 Agent 并行化](daily/2026-09-20.md)
 - [2026-09-13｜Declarative Attention、Harness-of-Harness、SKILL.state、CORAL 与 Trace as State](daily/2026-09-13.md)
 - [2026-09-06｜LLM Judge 生命周期、Skill Lift、Scroll、JIT-Agent、Compaction Cliff 与 EvoMal](daily/2026-09-06.md)
