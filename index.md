@@ -1,6 +1,7 @@
 # 日报索引
 
 <!-- DAILY_INDEX_START -->
+- [2026-11-22｜GPT-6.2、Gemini 4 Neon、Inkling 2 Mini、Qwen4-Max、FrontierHarness 与 Agent 记忆](daily/2026-11-22.md)
 - [2026-11-15｜Claude Fable 5.2、Gemini Hydrogen、RIME、AlphaProof Code 与 Singularity-Bench](daily/2026-11-15.md)
 - [2026-11-08｜GPT-6 Cyber、Weight-Space、Dreaming、Exo、METR 与 HarnessMM](daily/2026-11-08.md)
 - [2026-09-20｜Jev、Koa、Periodic Neon、HarnessTax 与 Agent 并行化](daily/2026-09-20.md)
